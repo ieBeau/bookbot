@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+BookBot will scan through any book and return the count of words/characters.
